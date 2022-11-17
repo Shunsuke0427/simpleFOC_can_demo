@@ -1,0 +1,17 @@
+{
+    "MY_F405": {
+        "inherits": [
+            "MCU_STM32F405xG"
+        ],
+        "supported_form_factors": [
+            "ARDUINO_UNO"
+        ],
+        "detect_code": [
+            "1236"
+        ],
+        "device_has_add": [
+            "CAN"
+        ],
+        "device_name": "STM32F405RGT6"
+    }
+}

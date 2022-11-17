@@ -1,0 +1,1 @@
+clone "SimpleFOC_Mbed" library in this directory (/simpleFOC_can_demo/library)
